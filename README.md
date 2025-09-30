@@ -46,9 +46,9 @@ Experiment on the Zama Testnet
 
 💎 Participate in the monthly Creator Program to win rewards & OG NFTs
 
-🧑‍💻 Join discussions and get support on Zama Discord
+🧑‍💻 Join discussions and get support on Zama Discord.
 
-📢 Follow @zama_fhe for updates
+📢 Follow @zama_fhe for updates.
 
 💡 The future of Web3 is encrypted.
 Build with Zama today and shape the next era of decentralized privacy.
